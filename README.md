@@ -1,2 +1,14 @@
+BSINFOTECT 3B_Cuty_Food-App
 
-![Screenshot (223)](https://github.com/mae-06/FOOD-APP/assets/168103164/fcd153c7-e840-4f77-bcf7-615c11dd63bd)
+Members:
+
+Flora Mae P. Rio
+
+Rea Mea Manlangit
+
+Trisha Rose Enriquez
+
+Rica Pelegrino
+
+![Screenshot (223)](https://github.com/mae-06/FOOD-APP/assets/168103164/6e9ef640-05d6-4cac-971d-89b1f167689d)
+
